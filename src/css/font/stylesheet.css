@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Gameplay';
+    src: url('Gameplay.woff2') format('woff2'),
+        url('Gameplay.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Francois+One&display=swap');
