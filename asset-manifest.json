@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Pomodoro-timer-react-js/static/css/main.3169a70f.chunk.css",
+    "main.js": "/Pomodoro-timer-react-js/static/js/main.c5b133fc.chunk.js",
+    "main.js.map": "/Pomodoro-timer-react-js/static/js/main.c5b133fc.chunk.js.map",
+    "runtime-main.js": "/Pomodoro-timer-react-js/static/js/runtime-main.5e1ec0ff.js",
+    "runtime-main.js.map": "/Pomodoro-timer-react-js/static/js/runtime-main.5e1ec0ff.js.map",
+    "static/js/2.37501fe2.chunk.js": "/Pomodoro-timer-react-js/static/js/2.37501fe2.chunk.js",
+    "static/js/2.37501fe2.chunk.js.map": "/Pomodoro-timer-react-js/static/js/2.37501fe2.chunk.js.map",
+    "index.html": "/Pomodoro-timer-react-js/index.html",
+    "precache-manifest.a662076b62e9069025ec15b1279339f6.js": "/Pomodoro-timer-react-js/precache-manifest.a662076b62e9069025ec15b1279339f6.js",
+    "service-worker.js": "/Pomodoro-timer-react-js/service-worker.js",
+    "static/css/main.3169a70f.chunk.css.map": "/Pomodoro-timer-react-js/static/css/main.3169a70f.chunk.css.map",
+    "static/media/index.scss": "/Pomodoro-timer-react-js/static/media/Gameplay.611b608f.woff2",
+    "static/media/logo.svg": "/Pomodoro-timer-react-js/static/media/logo.fccd758f.svg"
+  }
+}
